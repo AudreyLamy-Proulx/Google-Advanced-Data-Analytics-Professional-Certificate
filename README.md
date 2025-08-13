@@ -1,7 +1,7 @@
 # Google-Advanced-Data-Analytics-Professional-Certificate
 
 Foundations of Data Science
-- Data science roles, communication skills, and data ethics.
+- Data science roles, communication skills, data ethics, and PACE project workflow (Plan, Analyse, Construct, Execute).
 
 Get Started with Python
 - Core Python concepts, such as data types, functions, conditional statements, loops, and data structures.
